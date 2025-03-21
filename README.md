@@ -16,7 +16,7 @@ const zuhayr = {
   tools: [TailwindCSS, ShadCN, MongoDB, SQL],
   architecture: ["microservices", "event-driven", "design system pattern"],
   sports : ["cricket","table tennis", "tennis","chess"],
-  portfolio : "https://zuhayr.vercel.app"
+  portfolio : https://zuhayr.vercel.app
 }
 ```
 ![](./profile-3d-contrib/profile-night-green.svg)
