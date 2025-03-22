@@ -11,7 +11,7 @@
 
 ```javascript
 const zuhayr = {
-  nationality : "Pakistan"
+  nationality : "Pakistani"
   code: [Javascript, Typescript, NextJS, ReactJS, NodeJS],
   tools: [TailwindCSS, ShadCN, MongoDB, SQL],
   architecture: ["microservices", "event-driven", "design system pattern"],
