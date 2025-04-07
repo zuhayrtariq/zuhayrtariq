@@ -7,7 +7,7 @@
 [![GitHub Zuhayrtariq](https://img.shields.io/github/followers/zuhayrtariq?label=follow&style=social)](https://github.com/zuhayrtariq)
 
 
-### A little more about me...  
+### About me...  
 
 ```javascript
 const zuhayr = {
