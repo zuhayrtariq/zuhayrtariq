@@ -13,7 +13,7 @@
 const zuhayr = {
   nationality : "Pakistani"
   code: [Javascript, Typescript, NextJS, ReactJS, NodeJS],
-  tools: [TailwindCSS, ShadCN, MongoDB, SQL, Supabase],
+  tools: [TailwindCSS, ShadCN, MongoDB, SQL, Supabase, Snowflake],
   architecture: ["microservices", "event-driven", "design system pattern"],
   sports : ["cricket", "table tennis", "tennis", "chess"],
   portfolio : "https://zuhayr.vercel.app"
